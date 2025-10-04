@@ -1,6 +1,4 @@
 # Medilink
-Application mobile en temps reel qui connecte les utilisateurs aux services de sante essentiels
-
 # Description :
 
 MediLink est une application mobile en temps réel qui connecte les utilisateurs aux services
