@@ -1,5 +1,5 @@
 # Medilink
-# Description :
+## Description :
 
 MediLink est une application mobile en temps réel qui connecte les utilisateurs aux services
 de santé essentiels. Elle permet de trouver rapidement un hôpital ou une pharmacie ouverte,
@@ -7,10 +7,11 @@ de consulter la disponibilité des médecins, de vérifier les stocks et prix de
 direct, et d’acheter en ligne via MonCash ou NatCash. L’application inclut aussi une section
 de conseils de soins et une carte interactive pour localiser les services de santé à proximité.
 
-# User Stories
+## User Stories
 
 ## Must Have (Fonctionnalités essentielles – en temps réel)
 ● L’utilisateur doit pouvoir créer un compte ou se connecter.
+
 ● L’utilisateur doit pouvoir rechercher un hôpital ou une pharmacie ouverte en temps
 réel.
 ● L’utilisateur doit pouvoir consulter la disponibilité des médecins en direct.
